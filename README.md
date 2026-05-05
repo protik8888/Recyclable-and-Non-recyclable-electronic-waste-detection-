@@ -29,7 +29,7 @@ The model classifies 5 categories of electronic components:
 
 ## Dataset
 
-- Platform: Roboflow (https://app.roboflow.com/khobaer9999/green-computing-e-waste-njsej/6)
+- Platform: Roboflow (https://universe.roboflow.com/khobaer9999/green-computing-e-waste-njsej)
 - Total Images: 1,382 across 5 classes (276–277 images per class, balanced at 20% each)
 - Source: Images collected from various online sources and annotated using Roboflow
 
